@@ -24,7 +24,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. Download the archive
-2. Run AiBot.exe
+2. Run Client.exe
 3. Enjoy
   
 
